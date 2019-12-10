@@ -1,0 +1,2 @@
+History
+Glenford J. Myers initially introduced the separation of debugging from testing in 1979.[13] Although his attention was on breakage testing ("A successful test case is one that detects an as-yet undiscovered error."[13]:16) it illustrated the desire of the software engineering community to separate fundamental development activities, such as debugging, from that of verification. 
