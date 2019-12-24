@@ -1,0 +1,2 @@
+Quick configuration - just select provider, add the repository name, and personal access token or username/password (depends on Git Provider). Option of mass repository management is also included
+Smart Integration clones your repo and analyzes information locally instead of sending requests slowly to Git Provider API or receiving webhooks. 
